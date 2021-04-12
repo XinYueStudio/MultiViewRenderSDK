@@ -1,8 +1,8 @@
 {
-  "name": "com.unity.microlight",
+  "name": "com.unity.microlightmultiviewRendersdk",
   "version": "1.0.0",
-  "displayName": "MicroLightSDK",
-  "description": "This Package contains the necessary components required to use the MicroLight SDK on desktop plaform.By using this package,you will be able to deploy and run your appllication on MicroLight supported devices.",
+  "displayName": "multiviewRendersdk",
+  "description": "This Package contains the necessary components required to use the MicroLight multiviewRendersdk  on desktop plaform.By using this package,you will be able to deploy and run your appllication on MicroLight supported devices.",
   "unity": "2018.4",
   "license": "MIT",
   "dependencies": {
